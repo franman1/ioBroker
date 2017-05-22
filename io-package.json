@@ -100,7 +100,7 @@
     },
     "native": {
         "language":                 "",
-        "apikey":                   "",
+        "apikey":                   "k0206903@gmail.com_cd12a2e0-275a-11e7-8bda-89bbc4be4302",
         "instance":                 "web.0",
         "cloudUrl":                 "https://iobroker.net:10555",
         "allowSelfSignedCertificate": true,
